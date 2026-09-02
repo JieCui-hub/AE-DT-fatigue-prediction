@@ -1,0 +1,67 @@
+workbook,worksheet,data_rows,columns,figure_or_role
+data/Supplementary_Data.xlsx,Source_Small_Sample,34,16,analysis input
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,28,21,analysis input
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,28,21,analysis input
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,28,21,analysis input
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,28,21,analysis input
+data/Supplementary_Data.xlsx,Pre_raft,6,22,analysis input
+data/Supplementary_Data.xlsx,Literature_Large_Sample,171,30,analysis input
+data/Supplementary_Data.xlsx,AE_Raw,20000,16,analysis input
+data/Supplementary_Data.xlsx,AE_Filter_84.8pct,3040,16,analysis input
+data/Supplementary_Data.xlsx,AE_Filter_91.2pct,1770,16,analysis input
+data/Supplementary_Data.xlsx,AE_Filter_97.7pct,454,16,analysis input
+data/Supplementary_Data.xlsx,PU_Noise_Reference,5422,7,analysis input
+data/Supplementary_Data.xlsx,PU_State_Counts,4,5,analysis input
+data/Supplementary_Data.xlsx,PU_Descriptor_Subsamples,240,5,analysis input
+data/Source_Data.xlsx,Fig2a-c,1024,5,Fig2a-c
+data/Source_Data.xlsx,Fig2e,20000,13,Fig2e
+data/Source_Data.xlsx,Fig2f,265,2,Fig2f
+data/Source_Data.xlsx,Fig2g,106,3,Fig2g
+data/Source_Data.xlsx,Fig2h,112,6,Fig2h
+data/Source_Data.xlsx,Fig2i,28,7,Fig2i
+data/Source_Data.xlsx,Fig2j,4,6,Fig2j
+data/Source_Data.xlsx,Fig2k,4,11,Fig2k
+data/Source_Data.xlsx,Fig3a,112,14,Fig3a
+data/Source_Data.xlsx,Fig3b,112,14,Fig3b
+data/Source_Data.xlsx,Fig3c,112,14,Fig3c
+data/Source_Data.xlsx,Fig3d,112,14,Fig3d
+data/Source_Data.xlsx,Fig3e,112,14,Fig3e
+data/Source_Data.xlsx,Fig3f,20,7,Fig3f
+data/Source_Data.xlsx,Fig3g,16,7,Fig3g
+data/Source_Data.xlsx,Fig3h,140,6,Fig3h
+data/Source_Data.xlsx,Fig3i,32,7,Fig3i
+data/Source_Data.xlsx,Fig4b,112,14,Fig4b
+data/Source_Data.xlsx,Fig4c,112,14,Fig4c
+data/Source_Data.xlsx,Fig4d,112,14,Fig4d
+data/Source_Data.xlsx,Fig4e,16,10,Fig4e
+data/Source_Data.xlsx,Fig4f,360,12,Fig4f
+data/Source_Data.xlsx,Fig4g,336,9,Fig4g
+data/Source_Data.xlsx,Fig4l,24,7,Fig4l
+data/Source_Data.xlsx,Fig4m,12,5,Fig4m
+data/Source_Data.xlsx,Fig4n,20,6,Fig4n
+data/Source_Data.xlsx,Fig6a,4,4,Fig6a
+data/Source_Data.xlsx,Fig6b,6,3,Fig6b
+data/Source_Data.xlsx,Fig6c,50,5,Fig6c
+data/Source_Data.xlsx,Fig6d,4,8,Fig6d
+data/Source_Data.xlsx,Fig6e,50,7,Fig6e
+data/Source_Data.xlsx,Fig6f,684,6,Fig6f
+data/Source_Data.xlsx,Fig6g,513,7,Fig6g
+data/Source_Data.xlsx,Fig6h,4,4,Fig6h
+data/Source_Data.xlsx,Fig6i,171,15,Fig6i
+data/Source_Data.xlsx,FigS3_RA_summary,4,6,FigS3_RA_summary
+data/Source_Data.xlsx,FigS3_RA_values,7569,8,FigS3_RA_values
+data/Source_Data.xlsx,FigS5_filter_scale,64,4,FigS5_filter_scale
+data/Source_Data.xlsx,FigS5_filter_state,4,11,FigS5_filter_state
+data/Source_Data.xlsx,FigS5_subsample_stability,4,7,FigS5_subsample_stability
+data/Source_Data.xlsx,FigS6a,8,6,FigS6a
+data/Source_Data.xlsx,FigS6b,8,6,FigS6b
+data/Source_Data.xlsx,FigS6c,56,4,FigS6c
+data/Source_Data.xlsx,FigS8,20000,8,FigS8
+data/Source_Data.xlsx,FigS9,44,11,FigS9
+data/Source_Data.xlsx,FigS12,50,5,FigS12
+data/Source_Data.xlsx,FigS13a_weights,4,4,FigS13a_weights
+data/Source_Data.xlsx,FigS13b_consensus_R2,3,3,FigS13b_consensus_R2
+data/Source_Data.xlsx,FigS13c_effects_CI,2,8,FigS13c_effects_CI
+data/Source_Data.xlsx,FigS13d_ranked_errors,513,7,FigS13d_ranked_errors
+data/Source_Data.xlsx,FigS13e_MAE_bootstrap,10000,8,FigS13e_MAE_bootstrap
+data/Source_Data.xlsx,FigS13f_lambda_sweep,22,11,FigS13f_lambda_sweep

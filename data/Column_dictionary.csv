@@ -1,0 +1,651 @@
+workbook,worksheet,column_index,column_name,stored_value_types,nonempty_data_cells,unit_or_interpretation
+data/Supplementary_Data.xlsx,Source_Small_Sample,1,Specimen ID,int,34,identifier
+data/Supplementary_Data.xlsx,Source_Small_Sample,2,Al (%),float,34,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample,3,Co (%),int,34,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample,4,Cr (%),float,34,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample,5,W (%),int,34,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample,6,Ta (%),float,34,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample,7,Re (%),int,34,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample,8,Mo (%),int,34,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample,9,Ti (%),float,34,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample,10,Ni (%),float,34,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample,11,Orientation,str,34,crystallographic label
+data/Supplementary_Data.xlsx,Source_Small_Sample,12,Temperature (C),int,34,deg C
+data/Supplementary_Data.xlsx,Source_Small_Sample,13,Max Stress (MPa),int,34,MPa
+data/Supplementary_Data.xlsx,Source_Small_Sample,14,Stress Ratio,float/int,34,dimensionless
+data/Supplementary_Data.xlsx,Source_Small_Sample,15,Rafting time (h),int,34,h
+data/Supplementary_Data.xlsx,Source_Small_Sample,16,log10_Nf,float,34,log10(cycles)
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,1,Specimen ID,int,28,identifier
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,2,Al (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,3,Co (%),int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,4,Cr (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,5,W (%),int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,6,Ta (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,7,Re (%),int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,8,Mo (%),int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,9,Ti (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,10,Ni (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,11,Orientation,str,28,crystallographic label
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,12,Temperature (C),int,28,deg C
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,13,Max Stress (MPa),int,28,MPa
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,14,Stress Ratio,float/int,28,dimensionless
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,15,Mutation Point,float,28,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,16,D_early,float,28,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,17,Delta_p,float,28,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,18,gamma_prime_volume_fraction_pct,float/int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,19,average_gamma_prime_edge_length_um,float,28,micrometre
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,20,average_gamma_channel_width_um,float,28,micrometre
+data/Supplementary_Data.xlsx,Source_Small_Sample_Raw_AE,21,log10_Nf,float,28,log10(cycles)
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,1,Specimen ID,int,28,identifier
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,2,Al (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,3,Co (%),int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,4,Cr (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,5,W (%),int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,6,Ta (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,7,Re (%),int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,8,Mo (%),int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,9,Ti (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,10,Ni (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,11,Orientation,str,28,crystallographic label
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,12,Temperature (C),int,28,deg C
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,13,Max Stress (MPa),int,28,MPa
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,14,Stress Ratio,float/int,28,dimensionless
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,15,Mutation Point,float,28,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,16,D_early,float,28,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,17,Delta_p,float,28,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,18,gamma_prime_volume_fraction_pct,float/int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,19,average_gamma_prime_edge_length_um,float,28,micrometre
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,20,average_gamma_channel_width_um,float,28,micrometre
+data/Supplementary_Data.xlsx,Source_Small_Sample_84.8%_AE,21,log10_Nf,float,28,log10(cycles)
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,1,Specimen ID,int,28,identifier
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,2,Al (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,3,Co (%),int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,4,Cr (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,5,W (%),int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,6,Ta (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,7,Re (%),int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,8,Mo (%),int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,9,Ti (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,10,Ni (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,11,Orientation,str,28,crystallographic label
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,12,Temperature (C),int,28,deg C
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,13,Max Stress (MPa),int,28,MPa
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,14,Stress Ratio,float/int,28,dimensionless
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,15,Mutation Point,float,28,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,16,D_early,float,28,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,17,Delta_p,float,28,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,18,gamma_prime_volume_fraction_pct,float/int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,19,average_gamma_prime_edge_length_um,float,28,micrometre
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,20,average_gamma_channel_width_um,float,28,micrometre
+data/Supplementary_Data.xlsx,Source_Small_Sample_91.2%_AE,21,log10_Nf,float,28,log10(cycles)
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,1,Specimen ID,int,28,identifier
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,2,Al (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,3,Co (%),int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,4,Cr (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,5,W (%),int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,6,Ta (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,7,Re (%),int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,8,Mo (%),int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,9,Ti (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,10,Ni (%),float,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,11,Orientation,str,28,crystallographic label
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,12,Temperature (C),int,28,deg C
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,13,Max Stress (MPa),int,28,MPa
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,14,Stress Ratio,float/int,28,dimensionless
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,15,Mutation Point,float,28,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,16,D_early,float,28,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,17,Delta_p,float,28,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,18,gamma_prime_volume_fraction_pct,float/int,28,% (as supplied)
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,19,average_gamma_prime_edge_length_um,float,28,micrometre
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,20,average_gamma_channel_width_um,float,28,micrometre
+data/Supplementary_Data.xlsx,Source_Small_Sample_97.7%_AE,21,log10_Nf,float,28,log10(cycles)
+data/Supplementary_Data.xlsx,Pre_raft,1,Specimen ID,int,6,identifier
+data/Supplementary_Data.xlsx,Pre_raft,2,Al (%),float,6,% (as supplied)
+data/Supplementary_Data.xlsx,Pre_raft,3,Co (%),int,6,% (as supplied)
+data/Supplementary_Data.xlsx,Pre_raft,4,Cr (%),float,6,% (as supplied)
+data/Supplementary_Data.xlsx,Pre_raft,5,W (%),int,6,% (as supplied)
+data/Supplementary_Data.xlsx,Pre_raft,6,Ta (%),float,6,% (as supplied)
+data/Supplementary_Data.xlsx,Pre_raft,7,Re (%),int,6,% (as supplied)
+data/Supplementary_Data.xlsx,Pre_raft,8,Mo (%),int,6,% (as supplied)
+data/Supplementary_Data.xlsx,Pre_raft,9,Ti (%),float,6,% (as supplied)
+data/Supplementary_Data.xlsx,Pre_raft,10,Ni (%),float,6,% (as supplied)
+data/Supplementary_Data.xlsx,Pre_raft,11,Orientation,str,6,crystallographic label
+data/Supplementary_Data.xlsx,Pre_raft,12,Temperature (C),int,6,deg C
+data/Supplementary_Data.xlsx,Pre_raft,13,Max Stress (MPa),int,6,MPa
+data/Supplementary_Data.xlsx,Pre_raft,14,Stress Ratio,float,6,dimensionless
+data/Supplementary_Data.xlsx,Pre_raft,15,Mutation Point,float,6,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,Pre_raft,16,D_early,float,6,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,Pre_raft,17,Delta_p,float,6,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,Pre_raft,18,gamma_prime_volume_fraction_pct,float/int,6,% (as supplied)
+data/Supplementary_Data.xlsx,Pre_raft,19,average_gamma_prime_edge_length_um,float,6,micrometre
+data/Supplementary_Data.xlsx,Pre_raft,20,average_gamma_channel_width_um,float,6,micrometre
+data/Supplementary_Data.xlsx,Pre_raft,21,Rafting time (h),int,6,h
+data/Supplementary_Data.xlsx,Pre_raft,22,log10_Nf,float,6,log10(cycles)
+data/Supplementary_Data.xlsx,Literature_Large_Sample,1,temperature_C,int,171,deg C
+data/Supplementary_Data.xlsx,Literature_Large_Sample,2,stress_ratio_R,float/int,171,dimensionless
+data/Supplementary_Data.xlsx,Literature_Large_Sample,3,sigma_max_MPa,float/int,171,MPa
+data/Supplementary_Data.xlsx,Literature_Large_Sample,4,log_frequency_Hz,float/int,171,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,Literature_Large_Sample,5,Cr_wt_pct,float/int,171,wt.%
+data/Supplementary_Data.xlsx,Literature_Large_Sample,6,Co_wt_pct,float/int,171,wt.%
+data/Supplementary_Data.xlsx,Literature_Large_Sample,7,Mo_wt_pct,float/int,171,wt.%
+data/Supplementary_Data.xlsx,Literature_Large_Sample,8,W_wt_pct,float/int,171,wt.%
+data/Supplementary_Data.xlsx,Literature_Large_Sample,9,Ta_wt_pct,float/int,171,wt.%
+data/Supplementary_Data.xlsx,Literature_Large_Sample,10,Ti_wt_pct,float/int,171,wt.%
+data/Supplementary_Data.xlsx,Literature_Large_Sample,11,Al_wt_pct,float,171,wt.%
+data/Supplementary_Data.xlsx,Literature_Large_Sample,12,Re_wt_pct,float/int,171,wt.%
+data/Supplementary_Data.xlsx,Literature_Large_Sample,13,Hf_wt_pct,float,171,wt.%
+data/Supplementary_Data.xlsx,Literature_Large_Sample,14,C_wt_pct,float,171,wt.%
+data/Supplementary_Data.xlsx,Literature_Large_Sample,15,Cr_wt_pct_missing,int,171,dimensionless binary flag
+data/Supplementary_Data.xlsx,Literature_Large_Sample,16,Co_wt_pct_missing,int,171,dimensionless binary flag
+data/Supplementary_Data.xlsx,Literature_Large_Sample,17,Mo_wt_pct_missing,int,171,dimensionless binary flag
+data/Supplementary_Data.xlsx,Literature_Large_Sample,18,W_wt_pct_missing,int,171,dimensionless binary flag
+data/Supplementary_Data.xlsx,Literature_Large_Sample,19,Ta_wt_pct_missing,int,171,dimensionless binary flag
+data/Supplementary_Data.xlsx,Literature_Large_Sample,20,Ti_wt_pct_missing,int,171,dimensionless binary flag
+data/Supplementary_Data.xlsx,Literature_Large_Sample,21,Al_wt_pct_missing,int,171,dimensionless binary flag
+data/Supplementary_Data.xlsx,Literature_Large_Sample,22,Re_wt_pct_missing,int,171,dimensionless binary flag
+data/Supplementary_Data.xlsx,Literature_Large_Sample,23,Hf_wt_pct_missing,int,171,dimensionless binary flag
+data/Supplementary_Data.xlsx,Literature_Large_Sample,24,C_wt_pct_missing,int,171,dimensionless binary flag
+data/Supplementary_Data.xlsx,Literature_Large_Sample,25,orientation_family_001,int,171,dimensionless binary flag
+data/Supplementary_Data.xlsx,Literature_Large_Sample,26,orientation_family_011,int,171,dimensionless binary flag
+data/Supplementary_Data.xlsx,Literature_Large_Sample,27,orientation_family_111,int,171,dimensionless binary flag
+data/Supplementary_Data.xlsx,Literature_Large_Sample,28,orientation_family_other,int,171,dimensionless binary flag
+data/Supplementary_Data.xlsx,Literature_Large_Sample,29,log10_Nf,float,171,log10(cycles)
+data/Supplementary_Data.xlsx,Literature_Large_Sample,30,doi,str,171,source identifier string
+data/Supplementary_Data.xlsx,AE_Raw,1,time_s,float,20000,s
+data/Supplementary_Data.xlsx,AE_Raw,2,rise_time,int,20000,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Raw,3,counts,int,20000,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Raw,4,energy,int,20000,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Raw,5,cumulative_energy,int,20000,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Raw,6,duration,int,20000,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Raw,7,amplitude_dB,int,20000,dB
+data/Supplementary_Data.xlsx,AE_Raw,8,average_frequency,int,20000,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Raw,9,RMS,float,20000,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Raw,10,ASL,int,20000,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Raw,11,reverberation_frequency,int,20000,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Raw,12,initiation_frequency,int,20000,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Raw,13,signal_strength,int,20000,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Raw,14,absolute_energy,float/int,20000,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Raw,15,centroid_frequency,int,20000,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Raw,16,peak_frequency,int,20000,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_84.8pct,1,time_s,float,3040,s
+data/Supplementary_Data.xlsx,AE_Filter_84.8pct,2,rise_time,int,3040,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_84.8pct,3,counts,int,3040,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_84.8pct,4,energy,int,3040,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_84.8pct,5,cumulative_energy,int,3040,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_84.8pct,6,duration,int,3040,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_84.8pct,7,amplitude_dB,int,3040,dB
+data/Supplementary_Data.xlsx,AE_Filter_84.8pct,8,average_frequency,int,3040,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_84.8pct,9,RMS,float,3040,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_84.8pct,10,ASL,int,3040,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_84.8pct,11,reverberation_frequency,int,3040,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_84.8pct,12,initiation_frequency,int,3040,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_84.8pct,13,signal_strength,int,3040,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_84.8pct,14,absolute_energy,float/int,3040,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_84.8pct,15,centroid_frequency,int,3040,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_84.8pct,16,peak_frequency,int,3040,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_91.2pct,1,time_s,float,1770,s
+data/Supplementary_Data.xlsx,AE_Filter_91.2pct,2,rise_time,int,1770,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_91.2pct,3,counts,int,1770,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_91.2pct,4,energy,int,1770,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_91.2pct,5,cumulative_energy,int,1770,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_91.2pct,6,duration,int,1770,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_91.2pct,7,amplitude_dB,int,1770,dB
+data/Supplementary_Data.xlsx,AE_Filter_91.2pct,8,average_frequency,int,1770,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_91.2pct,9,RMS,float,1770,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_91.2pct,10,ASL,int,1770,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_91.2pct,11,reverberation_frequency,int,1770,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_91.2pct,12,initiation_frequency,int,1770,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_91.2pct,13,signal_strength,int,1770,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_91.2pct,14,absolute_energy,float/int,1770,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_91.2pct,15,centroid_frequency,int,1770,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_91.2pct,16,peak_frequency,int,1770,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_97.7pct,1,time_s,float,454,s
+data/Supplementary_Data.xlsx,AE_Filter_97.7pct,2,rise_time,int,454,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_97.7pct,3,counts,int,454,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_97.7pct,4,energy,int,454,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_97.7pct,5,cumulative_energy,int,454,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_97.7pct,6,duration,int,454,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_97.7pct,7,amplitude_dB,int,454,dB
+data/Supplementary_Data.xlsx,AE_Filter_97.7pct,8,average_frequency,int,454,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_97.7pct,9,RMS,float,454,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_97.7pct,10,ASL,int,454,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_97.7pct,11,reverberation_frequency,int,454,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_97.7pct,12,initiation_frequency,int,454,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_97.7pct,13,signal_strength,int,454,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_97.7pct,14,absolute_energy,float/int,454,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_97.7pct,15,centroid_frequency,int,454,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,AE_Filter_97.7pct,16,peak_frequency,int,454,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,PU_Noise_Reference,1,time_s,float,5422,s
+data/Supplementary_Data.xlsx,PU_Noise_Reference,2,rise_time_us,int,5422,microsecond
+data/Supplementary_Data.xlsx,PU_Noise_Reference,3,counts,int,5422,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,PU_Noise_Reference,4,energy,int,5422,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,PU_Noise_Reference,5,duration_us,int,5422,microsecond
+data/Supplementary_Data.xlsx,PU_Noise_Reference,6,amplitude_dB,int,5422,dB
+data/Supplementary_Data.xlsx,PU_Noise_Reference,7,average_frequency_kHz,int,5422,kHz
+data/Supplementary_Data.xlsx,PU_State_Counts,1,Filter_state,str,4,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,PU_State_Counts,2,Removed_events_pct,float/int,4,% (as supplied)
+data/Supplementary_Data.xlsx,PU_State_Counts,3,Retained_events,int,4,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,PU_State_Counts,4,p_noise_cutoff,float/int,4,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,PU_State_Counts,5,AE_candidate_events,int,4,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,PU_Descriptor_Subsamples,1,Filter_state,str,240,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,PU_Descriptor_Subsamples,2,Subsample_replicate,int,240,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,PU_Descriptor_Subsamples,3,Change_point_u,float,240,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,PU_Descriptor_Subsamples,4,D_early,float,240,not specified in supplied header; see data dictionary/code
+data/Supplementary_Data.xlsx,PU_Descriptor_Subsamples,5,Delta_P_RA,float,240,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2a-c,1,time_us,int,1024,microsecond
+data/Source_Data.xlsx,Fig2a-c,2,Type_I_noise,float/int,1024,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2a-c,3,Type_II_noise,float/int,1024,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2a-c,4,Before_filtering,float/int,1024,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2a-c,5,After_filtering,float/int,1024,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2e,1,RAW_u,float/int,20000,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2e,2,RAW_cumulative_AE_energy,float/int,20000,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2e,3,84.80%_u,float/int,3040,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2e,4,84.80%_cumulative_AE_energy,float/int,3040,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2e,5,91.15%_u,float/int,1770,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2e,6,91.15%_cumulative_AE_energy,float/int,1770,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2e,7,97.73%_u,float/int,454,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2e,8,97.73%_cumulative_AE_energy,float/int,454,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2e,9,91.15%_piecewise_fit,float,1770,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2e,10,candidate_u,float,81,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2e,11,BIC,float,81,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2e,12,Delta_BIC,float/int,81,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2e,13,log10_1_plus_Delta_BIC,float/int,81,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig2f,1,Pre_RA,float/int,265,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2f,2,Post_RA,float/int,265,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2g,1,Filter_state,str,106,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2g,2,Amplitude_dB,int,106,dB
+data/Source_Data.xlsx,Fig2g,3,log10_N_ge_A,float,106,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig2h,1,Filter_state,str,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2h,2,Bootstrap_replicate,int,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2h,3,Amplitude_b_MLE,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2h,4,Mean,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2h,5,CI95_low,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2h,6,CI95_high,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2i,1,Filter_state,str,28,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2i,2,Completeness_threshold_dB,int,28,dB
+data/Source_Data.xlsx,Fig2i,3,Amplitude_b_MLE,float,28,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2i,4,KS_distance,float,28,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2i,5,Band_low,float,28,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2i,6,Band_high,float,28,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2i,7,Tail_events,int,28,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2j,1,Filter_state,str,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2j,2,Change_point_u,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2j,3,D_early,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2j,4,Delta_P_RA,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2j,5,Pre_window_events,int,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2j,6,Post_window_events,int,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2k,1,Filter_state,str,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2k,2,Removed_events_pct,float/int,4,% (as supplied)
+data/Source_Data.xlsx,Fig2k,3,Retained_events,int,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2k,4,Qualified_events,int,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2k,5,Signal_purity,float/int,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2k,6,Signal_retention,float/int,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2k,7,Descriptor_stability,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2k,8,Q_filter,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2k,9,SD_u_star,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2k,10,SD_D_early,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig2k,11,SD_Delta_P_RA,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3a,1,AE state,str,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3a,2,Model,str,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3a,3,Sample index,int,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3a,4,Specimen ID,str,112,identifier
+data/Source_Data.xlsx,Fig3a,5,Observed log10_Nf,float,112,log10(cycles)
+data/Source_Data.xlsx,Fig3a,6,Consensus predicted log10_Nf,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3a,7,Absolute error log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3a,8,Consensus R2,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3a,9,Consensus RMSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3a,10,Consensus MAE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3a,11,Median repeat R2,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3a,12,R2 2.5%,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3a,13,R2 97.5%,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3a,14,Median repeat RMSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3b,1,AE state,str,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3b,2,Model,str,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3b,3,Sample index,int,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3b,4,Specimen ID,str,112,identifier
+data/Source_Data.xlsx,Fig3b,5,Observed log10_Nf,float,112,log10(cycles)
+data/Source_Data.xlsx,Fig3b,6,Consensus predicted log10_Nf,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3b,7,Absolute error log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3b,8,Consensus R2,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3b,9,Consensus RMSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3b,10,Consensus MAE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3b,11,Median repeat R2,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3b,12,R2 2.5%,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3b,13,R2 97.5%,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3b,14,Median repeat RMSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3c,1,AE state,str,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3c,2,Model,str,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3c,3,Sample index,int,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3c,4,Specimen ID,str,112,identifier
+data/Source_Data.xlsx,Fig3c,5,Observed log10_Nf,float,112,log10(cycles)
+data/Source_Data.xlsx,Fig3c,6,Consensus predicted log10_Nf,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3c,7,Absolute error log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3c,8,Consensus R2,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3c,9,Consensus RMSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3c,10,Consensus MAE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3c,11,Median repeat R2,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3c,12,R2 2.5%,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3c,13,R2 97.5%,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3c,14,Median repeat RMSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3d,1,AE state,str,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3d,2,Model,str,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3d,3,Sample index,int,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3d,4,Specimen ID,str,112,identifier
+data/Source_Data.xlsx,Fig3d,5,Observed log10_Nf,float,112,log10(cycles)
+data/Source_Data.xlsx,Fig3d,6,Consensus predicted log10_Nf,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3d,7,Absolute error log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3d,8,Consensus R2,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3d,9,Consensus RMSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3d,10,Consensus MAE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3d,11,Median repeat R2,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3d,12,R2 2.5%,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3d,13,R2 97.5%,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3d,14,Median repeat RMSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3e,1,AE state,str,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3e,2,Model,str,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3e,3,Sample index,int,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3e,4,Specimen ID,str,112,identifier
+data/Source_Data.xlsx,Fig3e,5,Observed log10_Nf,float,112,log10(cycles)
+data/Source_Data.xlsx,Fig3e,6,Consensus predicted log10_Nf,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3e,7,Absolute error log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3e,8,Consensus R2,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3e,9,Consensus RMSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3e,10,Consensus MAE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3e,11,Median repeat R2,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3e,12,R2 2.5%,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3e,13,R2 97.5%,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3e,14,Median repeat RMSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3f,1,AE state,str,20,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3f,2,Model,str,20,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3f,3,Median repeat MSE_log10,float,20,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3f,4,Mean repeat MSE_log10,float,20,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3f,5,MSE 2.5%,float,20,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3f,6,MSE 97.5%,float,20,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3f,7,Consensus RMSE_log10,float,20,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3g,1,AE state,str,16,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3g,2,Model,str,16,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3g,3,Median Delta R2,float,16,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3g,4,Mean Delta R2,float,16,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3g,5,Delta R2 2.5%,float,16,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3g,6,Delta R2 97.5%,float,16,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3g,7,Positive fraction,float/int,16,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3h,1,AE state,str,140,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3h,2,Sample index,int,140,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3h,3,Specimen ID,str,140,identifier
+data/Source_Data.xlsx,Fig3h,4,Observed log10_Nf,float,140,log10(cycles)
+data/Source_Data.xlsx,Fig3h,5,Four-model ensemble predicted log10_Nf,float,140,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3h,6,Absolute error log10,float,140,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig3i,1,Feature group removed,str,32,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3i,2,Model,str,32,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3i,3,Median R2 loss,float,32,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3i,4,Mean R2 loss,float,32,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3i,5,R2 loss 2.5%,float,32,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3i,6,R2 loss 97.5%,float,32,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig3i,7,Positive fraction,float/int,32,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4b,1,State,str,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4b,2,Model,str,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4b,3,Sample index,int,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4b,4,Specimen ID,str,112,identifier
+data/Source_Data.xlsx,Fig4b,5,Measured log10_Nf,float,112,log10(cycles)
+data/Source_Data.xlsx,Fig4b,6,Consensus predicted log10_Nf,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4b,7,Consensus R2,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4b,8,Consensus MSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4b,9,Consensus RMSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4b,10,Consensus MAE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4b,11,Median repeat R2,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4b,12,R2 2.5%,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4b,13,R2 97.5%,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4b,14,Median repeat MSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4c,1,State,str,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4c,2,Model,str,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4c,3,Sample index,int,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4c,4,Specimen ID,str,112,identifier
+data/Source_Data.xlsx,Fig4c,5,Measured log10_Nf,float,112,log10(cycles)
+data/Source_Data.xlsx,Fig4c,6,Consensus predicted log10_Nf,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4c,7,Consensus R2,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4c,8,Consensus MSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4c,9,Consensus RMSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4c,10,Consensus MAE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4c,11,Median repeat R2,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4c,12,R2 2.5%,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4c,13,R2 97.5%,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4c,14,Median repeat MSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4d,1,State,str,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4d,2,Model,str,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4d,3,Sample index,int,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4d,4,Specimen ID,str,112,identifier
+data/Source_Data.xlsx,Fig4d,5,Measured log10_Nf,float,112,log10(cycles)
+data/Source_Data.xlsx,Fig4d,6,Consensus predicted log10_Nf,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4d,7,Consensus R2,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4d,8,Consensus MSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4d,9,Consensus RMSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4d,10,Consensus MAE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4d,11,Median repeat R2,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4d,12,R2 2.5%,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4d,13,R2 97.5%,float,112,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4d,14,Median repeat MSE_log10,float,112,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4e,1,State,str,16,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4e,2,Model,str,16,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4e,3,Consensus R2,float,16,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4e,4,Consensus MSE_log10,float,16,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4e,5,Consensus RMSE_log10,float,16,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4e,6,Consensus MAE_log10,float,16,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4e,7,Median repeat R2,float,16,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4e,8,R2 2.5%,float,16,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4e,9,R2 97.5%,float,16,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4e,10,Median repeat MSE_log10,float,16,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4f,1,Repeat,int,360,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4f,2,Seed,int,360,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4f,3,State,str,360,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4f,4,Model,str,360,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4f,5,R2,float,360,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4f,6,MSE_log10,float,360,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4f,7,RMSE_log10,float,360,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4f,8,MAE_log10,float,360,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4f,9,Base R2,float,360,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4f,10,Base MSE_log10,float,360,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4f,11,Delta R2 vs Base,float,360,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4f,12,Delta MSE vs Base,float,360,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4g,1,Sample index,int,336,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4g,2,Specimen ID,str,336,identifier
+data/Source_Data.xlsx,Fig4g,3,Feature,str,336,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4g,4,Display feature,str,336,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4g,5,Feature group,str,336,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4g,6,Feature value,float/int,336,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4g,7,Normalized feature value,float/int,336,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4g,8,SHAP value,float,336,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4g,9,Absolute SHAP value,float,336,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4l,1,State,str,24,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4l,2,Sample index,int,24,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4l,3,Specimen ID,str,24,identifier
+data/Source_Data.xlsx,Fig4l,4,Rafting time (h),int,24,h
+data/Source_Data.xlsx,Fig4l,5,Measured log10_Nf,float,24,log10(cycles)
+data/Source_Data.xlsx,Fig4l,6,Four-model ensemble predicted log10_Nf,float,24,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4l,7,Absolute error log10,float,24,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4m,1,State,str,12,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4m,2,Rafting time (h),int,12,h
+data/Source_Data.xlsx,Fig4m,3,Mean absolute error log10,float,12,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4m,4,Median absolute error log10,float,12,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4m,5,Specimens,int,12,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4n,1,State,str,20,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4n,2,Model,str,20,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4n,3,n_test,int,20,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4n,4,R2,float,20,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig4n,5,MAE_log10,float,20,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig4n,6,RMSE_log10,float,20,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig6a,1,Modality,str,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6a,2,Grouped OOF R2,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6a,3,Grouped OOF RMSE,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6a,4,Grouped OOF MAE,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6b,1,Split family,str,6,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6b,2,Method,str,6,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6b,3,Consensus R2,float,6,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6c,1,Split family,str,50,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6c,2,Seed,int,50,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6c,3,MS R2,float,50,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6c,4,AE R2,float,50,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6c,5,AE minus MS R2,float,50,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6d,1,Split family,str,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6d,2,Method,str,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6d,3,Baseline consensus R2,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6d,4,Consensus R2,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6d,5,Delta R2,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6d,6,CI95 low,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6d,7,CI95 high,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6d,8,Unique records,int,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6e,1,Split family,str,50,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6e,2,Seed,int,50,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6e,3,AE R2,float,50,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6e,4,Base R2,float,50,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6e,5,MS R2,float,50,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6e,6,AE minus Base R2,float,50,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6e,7,MS minus Base R2,float,50,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6f,1,Split family,str,684,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6f,2,Method,str,684,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6f,3,Condition group,int,684,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6f,4,Row index,int,684,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6f,5,Measured log10 Nf,float,684,log10(cycles)
+data/Source_Data.xlsx,Fig6f,6,Predicted log10 Nf,float,684,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig6g,1,Split family,str,513,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6g,2,Method,str,513,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6g,3,Condition group,int,513,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6g,4,Row index,int,513,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6g,5,Measured log10 Nf,float,513,log10(cycles)
+data/Source_Data.xlsx,Fig6g,6,Predicted log10 Nf,float,513,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,Fig6g,7,Absolute error,float,513,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6h,1,Condition,str,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6h,2,Base weight,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6h,3,AE-informed weight,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6h,4,MS-informed weight,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6i,1,Row index,int,171,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6i,2,Measured log10 Nf,float,171,log10(cycles)
+data/Source_Data.xlsx,Fig6i,3,Baseline prediction,float,171,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6i,4,AE prediction,float,171,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6i,5,Baseline residual,float,171,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6i,6,AE prediction update,float,171,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6i,7,Delta absolute error,float,171,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6i,8,Lower absolute error,bool,171,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6i,9,Directionally aligned,bool,171,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6i,10,Quantile bin,int,171,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6i,11,Bin records,int,171,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6i,12,Baseline residual median,float,171,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6i,13,AE update median,float,171,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6i,14,AE update CI95 low,float,171,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,Fig6i,15,AE update CI95 high,float,171,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS3_RA_summary,1,Filter_state,str,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS3_RA_summary,2,Change_point_u,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS3_RA_summary,3,Delta_P_RA,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS3_RA_summary,4,P_post_gt_pre,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS3_RA_summary,5,n_pre,int,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS3_RA_summary,6,n_post,int,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS3_RA_values,1,Filter_state,str,7569,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS3_RA_values,2,Window,str,7569,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS3_RA_values,3,RA,float/int,7569,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS3_RA_values,4,Change_point_u,float,7569,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS3_RA_values,5,Delta_P_RA,float,7569,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS3_RA_values,6,P_post_gt_pre,float,7569,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS3_RA_values,7,n_pre,int,7569,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS3_RA_values,8,n_post,int,7569,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_filter_scale,1,State,str,64,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_filter_scale,2,Scale multiplier,float/int,64,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_filter_scale,3,Descriptor stability,float,64,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_filter_scale,4,Q_filter,float,64,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_filter_state,1,State,str,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_filter_state,2,Removed events (%),float/int,4,% (as supplied)
+data/Source_Data.xlsx,FigS5_filter_state,3,Retained events,int,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_filter_state,4,p_noise cutoff,float/int,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_filter_state,5,Candidate purity,float/int,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_filter_state,6,Candidate retention,float/int,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_filter_state,7,Descriptor stability,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_filter_state,8,Q_filter,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_filter_state,9,SD change point,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_filter_state,10,SD D_early,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_filter_state,11,SD Delta_P_RA,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_subsample_stability,1,State,str,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_subsample_stability,2,Change point mean,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_subsample_stability,3,Change point SD,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_subsample_stability,4,D_early mean,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_subsample_stability,5,D_early SD,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_subsample_stability,6,Delta_P_RA mean,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS5_subsample_stability,7,Delta_P_RA SD,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS6a,1,AE state,str,8,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS6a,2,Model,str,8,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS6a,3,n,int,8,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS6a,4,R2,float,8,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS6a,5,RMSE_log10,float,8,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,FigS6a,6,MAE_log10,float,8,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,FigS6b,1,AE state,str,8,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS6b,2,Model,str,8,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS6b,3,n,int,8,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS6b,4,R2,float,8,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS6b,5,RMSE_log10,float,8,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,FigS6b,6,MAE_log10,float,8,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,FigS6c,1,AE state,str,56,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS6c,2,Sample index,int,56,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS6c,3,Observed log10_Nf,float,56,log10(cycles)
+data/Source_Data.xlsx,FigS6c,4,Predicted log10_Nf,float,56,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,FigS8,1,Split family,str,20000,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS8,2,Bootstrap replicate,int,20000,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS8,3,Bootstrap MS minus AE MAE,float,20000,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS8,4,Point MS minus AE MAE,float,20000,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS8,5,CI95 low,float,20000,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS8,6,CI95 high,float,20000,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS8,7,Condition groups,int,20000,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS8,8,Records,int,20000,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS9,1,Split family,str,44,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS9,2,Lambda,float/int,44,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS9,3,Method,str,44,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS9,4,Base consensus R2,float,44,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS9,5,Consensus R2,float,44,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS9,6,Delta R2 vs Base,float/int,44,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS9,7,Consensus MAE,float,44,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS9,8,Records,int,44,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS9,9,Condition groups,int,44,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS9,10,Minimum test appearances,int,44,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS9,11,Maximum test appearances,int,44,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS12,1,Split family,str,50,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS12,2,Seed,int,50,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS12,3,Base R2,float,50,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS12,4,MS R2,float,50,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS12,5,AE R2,float,50,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13a_weights,1,Condition,str,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13a_weights,2,Base weight,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13a_weights,3,MS-informed weight,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13a_weights,4,AE-informed weight,float,4,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13b_consensus_R2,1,Split family,str,3,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13b_consensus_R2,2,Method,str,3,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13b_consensus_R2,3,Consensus R2,float,3,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13c_effects_CI,1,Split family,str,2,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13c_effects_CI,2,Method,str,2,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13c_effects_CI,3,Baseline consensus R2,float,2,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13c_effects_CI,4,Consensus R2,float,2,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13c_effects_CI,5,Delta R2,float,2,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13c_effects_CI,6,CI95 low,float,2,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13c_effects_CI,7,CI95 high,float,2,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13c_effects_CI,8,Unique records,int,2,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13d_ranked_errors,1,Split family,str,513,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13d_ranked_errors,2,Method,str,513,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13d_ranked_errors,3,Condition group,int,513,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13d_ranked_errors,4,Row index,int,513,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13d_ranked_errors,5,Measured log10 Nf,float,513,log10(cycles)
+data/Source_Data.xlsx,FigS13d_ranked_errors,6,Predicted log10 Nf,float,513,log10 scale; see header/analysis definition
+data/Source_Data.xlsx,FigS13d_ranked_errors,7,Absolute error,float,513,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13e_MAE_bootstrap,1,Split family,str,10000,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13e_MAE_bootstrap,2,Bootstrap replicate,int,10000,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13e_MAE_bootstrap,3,Bootstrap MS minus AE MAE,float,10000,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13e_MAE_bootstrap,4,Point MS minus AE MAE,float,10000,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13e_MAE_bootstrap,5,CI95 low,float,10000,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13e_MAE_bootstrap,6,CI95 high,float,10000,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13e_MAE_bootstrap,7,Condition groups,int,10000,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13e_MAE_bootstrap,8,Records,int,10000,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13f_lambda_sweep,1,Split family,str,22,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13f_lambda_sweep,2,Lambda,float/int,22,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13f_lambda_sweep,3,Method,str,22,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13f_lambda_sweep,4,Base consensus R2,float,22,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13f_lambda_sweep,5,Consensus R2,float,22,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13f_lambda_sweep,6,Delta R2 vs Base,float/int,22,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13f_lambda_sweep,7,Consensus MAE,float,22,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13f_lambda_sweep,8,Records,int,22,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13f_lambda_sweep,9,Condition groups,int,22,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13f_lambda_sweep,10,Minimum test appearances,int,22,not specified in supplied header; see data dictionary/code
+data/Source_Data.xlsx,FigS13f_lambda_sweep,11,Maximum test appearances,int,22,not specified in supplied header; see data dictionary/code
